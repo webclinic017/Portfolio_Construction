@@ -1,3 +1,3 @@
-# Portfolio_Construction
+# The Sisu Project
 
-This projects goal is to construct a framework for analyzing different portfolio constructions with different rebalancing schemes. 
+This project contain back tests of asset allocations and stock selection models. 
